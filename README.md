@@ -1,6 +1,8 @@
 
 # High-Resolution Virtual Try-On via Misalignment-Aware Normalization
 
+full explanation: https://drive.google.com/file/d/1aFrycto04UHhn9C51JojeOQF5KVe5iQU/view?usp=sharing
+
 ## Abstract
 The goal of image-based virtual try-on is to overlay a chosen clothing item onto the appropriate area of a person. This process typically involves adjusting the item to fit the target body part and seamlessly blending it with the person's image. Despite numerous studies in this field, the generated images remain at a low resolution (e.g., 256×192), which significantly hinders the ability to meet the expectations of online shoppers.
 
